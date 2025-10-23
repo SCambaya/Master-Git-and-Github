@@ -1,2 +1,2 @@
 console.log("Hello World Javascript")
-console.log("Hello World HTML5 and CSS")
+console.log("Hello World HTML")
